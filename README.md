@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/makozfriends/videosynclist.png?label=ready&title=Ready)](https://waffle.io/makozfriends/videosynclist)
+[![Stories in Ready](https://badge.waffle.io/makozfriends/videosynclist.png?label=ready&title=Ready)](https://waffle.io/makozfriends/videosynclist) [![Code Climate](https://codeclimate.com/github/MakozFriends/VideoSyncList.png)](https://codeclimate.com/github/MakozFriends/VideoSyncList)
 VideoSyncList
 =============
 
