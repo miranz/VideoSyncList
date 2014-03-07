@@ -22,8 +22,10 @@ Call ```initSyncWithYT(id, url, list)``` with :
     * } (comma separated)
   * ] 
  
-You also need to include the [mozilla/popcorn-js](https://github.com/mozilla/popcorn-js) library.
 
 ##Installation
 
-Just ```bower install videosynclist```!!!
+1. Just ```bower install videosynclist```!!!
+2. Otherwise, grab [videosynclist.js](videosynclist.js) and [popcorn-js](https://github.com/mozilla/popcorn-js/blob/master/popcorn.js).
+
+Either way, don't forget to include both script.
