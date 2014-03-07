@@ -5,6 +5,9 @@ module.exports = function(grunt) {
   			files: ['videosynclist.js']
   		},
   		coffee: {
+  			options: {
+  				bare: true
+  			},
   			compile: {
     			expand: true,
     			src: ['*.coffee'],
