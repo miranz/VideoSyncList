@@ -1,0 +1,9 @@
+{
+  "name": "VideoSyncList",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "grunt-contrib-jshint": "^0.8.0",
+    "grunt-contrib-coffee": "^0.10.1"
+  }
+}

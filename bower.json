@@ -1,0 +1,26 @@
+{
+  "name": "VideoSyncList",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MakozFriends/VideoSyncList",
+  "authors": [
+    "Emmanuel Hadoux <emmanuel.hadoux@gmail.com>"
+  ],
+  "description": "Small js library to keep a list sync with a video using mozilla/popcorn-js.",
+  "main": "videosynclist.js",
+  "keywords": [
+    "video",
+    "synchronization",
+    "popcorn"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  	"popcorn-js":"1.5.5"
+  }
+}
